@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TanishBaka
+- 👋 Hi, 
 - 👀 I’m interested in ... nothing xd
-- 🌱 I’m currently learning ... Rom Building
-- 💞️ I’m looking to collaborate on ... Dt
-- 📫 How to reach me ... Tele @tanish54
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
 TanishBaka/TanishBaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
